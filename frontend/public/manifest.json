@@ -1,0 +1,16 @@
+{
+  "name": "MedOryx-India | Federated Health Resource Platform",
+  "short_name": "MedOryx",
+  "description": "Federated National Health Resource & Supply Chain Intelligence Platform — BRICS Smart Health Track",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050B1A",
+  "theme_color": "#050B1A",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}
